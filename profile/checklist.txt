@@ -1,0 +1,4 @@
+- [x] Create repository
+- [x] Configure git user
+- [x] Add README.md
+- [x] Create profile directory
